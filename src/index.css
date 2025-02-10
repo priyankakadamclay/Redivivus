@@ -1,3 +1,12 @@
 .bg-grey {
   background-color: #f6f6f6;
 }
+.bg-navy{
+  background: rgb(4, 4, 98);
+}
+.btn-navy,.btn-primary{
+  background: rgb(4, 4, 98) !important;
+}
+.custom_icon{
+  font-size: 48px;
+}

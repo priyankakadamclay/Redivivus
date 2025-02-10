@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+// import './App.css';
 import { Link,Route,Routes } from 'react-router-dom';
 import Home from './Pages/Home';
 import Contact from './Pages/Contact'
@@ -13,7 +13,7 @@ function App() {
   return (
   <>
   <div className=""> 
-    <nav  class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav  class="navbar navbar-expand-lg navbar-dark bg-navy">
        <div class="container">
     <a class="navbar-brand" href="#">Redivivus | Technologies</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
